@@ -1,5 +1,4 @@
 - 👋 Hi, My name is Gizem Şangür
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me from my email:gizem2002sangur@gmail.com
 
@@ -14,4 +13,5 @@ SKILLS
 
 
 SUPPORT ME
+
 <a href="https://www.buymeacoffee.com/gizemsangur" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
