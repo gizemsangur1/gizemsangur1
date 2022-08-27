@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 SKILLS
 
-[![My Skills](https://skills.thijs.gg/icons?i=cpp,html,css,python,R,c#&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=cpp,html,css,python,c#&theme=light)](https://skills.thijs.gg)
 
 
 SUPPORT ME
