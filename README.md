@@ -12,6 +12,4 @@ SKILLS
 [![My Skills](https://skills.thijs.gg/icons?i=cpp,html,css,python,js,c#&theme=light)](https://skills.thijs.gg)
 
 
-SUPPORT ME
 
-<a href="https://www.buymeacoffee.com/gizemsangur" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
