@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Gizem Şangür
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning React JS.
 - 📫 How to reach me from my email:gizem2002sangur@gmail.com
 
 <!---
