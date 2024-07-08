@@ -10,9 +10,6 @@ You can click the Preview link to take a look at your changes.
 You can see my portfolio site --> (https://gizemsangur-gizemsangur1.vercel.app/)
 
 
-SKILLS
-
-[![My Skills](https://skills.thijs.gg/icons?i=cpp,html,css,python,js,c#,react.js&theme=light)](https://skills.thijs.gg)
 
 
 
