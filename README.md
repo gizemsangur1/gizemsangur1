@@ -1,5 +1,6 @@
 - 👋 Hi, My name is Gizem Şangür
-- 🌱 I’m currently learning React JS.
+- 🌱 I’m currently working as freelance frontend developer.
+- We are making social website called Dudullu. (And upcoming international website WordyWell.)
 - 📫 How to reach me from my email:gizem2002sangur@gmail.com
 
 <!---
