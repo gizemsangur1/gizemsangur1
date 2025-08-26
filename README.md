@@ -34,7 +34,7 @@
 [Calender App](https://github.com/gizemsangur1/CalendarApp)
 
 ## Mobile Projects
-[Cine Swipe App]([https://github.com/gizemsangur1/ChatApp](https://github.com/gizemsangur1/CineSwipe-mobile))
+[Cine Swipe App](https://github.com/gizemsangur1/CineSwipe-mobile)
 
 [Chat App](https://github.com/gizemsangur1/ChatApp)
 
