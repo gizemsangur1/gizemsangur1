@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-    <p style="font-size: 32px; font-weight: 900;">Hi, My name is Gizem Şangür !</p>
+    <h2>Hi, My name is Gizem Şangür !</h2>
 </div>
 <div align="center">
   <a href="https://linkedin.com/in/gizem-sangur" target="_blank">
