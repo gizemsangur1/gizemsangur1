@@ -10,6 +10,9 @@
   <a href="https://linkedin.com/in/gizem-sangur" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
+      <a href="https://www.codechef.com/users/gizemsangur" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=CodeChef&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
   <a href="https://medium.com/@gizmo.codes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo" />
   </a>
